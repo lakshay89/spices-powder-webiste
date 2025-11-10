@@ -1523,6 +1523,9 @@
      left: 0px;
      top: 0px;
 }
+.ins-inner-box img{
+    width: 300px !important;
+}
  .all-title-box h2{
      font-size: 28px;
      font-weight: 700;
